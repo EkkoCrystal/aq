@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="统计分析">
+    <path id="矩形_5_拷贝_3" data-name="矩形 5 拷贝 3" class="cls-1" d="M542,1h4a2,2,0,0,1,2,2V26a2,2,0,0,1-2,2h-4a2,2,0,0,1-2-2V3A2,2,0,0,1,542,1ZM531,16h4a2,2,0,0,1,2,2v8a2,2,0,0,1-2,2h-4a2,2,0,0,1-2-2V18A2,2,0,0,1,531,16Zm22-5h4a2,2,0,0,1,2,2V26a2,2,0,0,1-2,2h-4a2,2,0,0,1-2-2V13A2,2,0,0,1,553,11ZM528,29h32v2H528V29Z" transform="translate(-528)"/>
+  </g>
+</svg>
